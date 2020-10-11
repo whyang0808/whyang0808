@@ -12,12 +12,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="YangWeiHao3 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="whyang0808 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="yang.wei.hao | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="yang.weihao | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="YangWeiHao3 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 ---
 
 [linkedin]: https://www.linkedin.com/in/whyang0808/
-[twitter]: https://twitter.com/YangWeiHao3
 [instagram]: https://www.instagram.com/yang.wei.hao/
+[facebook]: https://www.facebook.com/yang.weihao
+[twitter]: https://twitter.com/YangWeiHao3
