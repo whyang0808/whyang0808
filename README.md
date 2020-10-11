@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there I'm Wei Hao👋
 
-<!--
-**whyang0808/whyang0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am a full stack software engineer.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently participating Hacktoberfest!
+- 💬 Ask me about Java and React stuffs.
+- 🥅 2020 Goals: Continue learning 😄.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" alt="Yang Wei Hao's Github Stats" src="https://github-readme-stats.whyang0808.vercel.app/api?username=whyang0808&hide=stars&count_private=true&show_icons=true&theme=yeblu&include_all_commits=true" />
+
+<img align="center" alt="Yang Wei Hao's Top Langs" src="https://github-readme-stats.whyang0808.vercel.app/api/top-langs/?username=whyang0808&layout=compact&theme=yeblu" />
+
+### Connect with me:
+
+[<img align="left" alt="YangWeiHao3 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="whyang0808 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="yang.wei.hao | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+---
+
+[linkedin]: https://www.linkedin.com/in/whyang0808/
+[twitter]: https://twitter.com/YangWeiHao3
+[instagram]: https://www.instagram.com/yang.wei.hao/
