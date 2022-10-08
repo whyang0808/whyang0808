@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently participating Hacktoberfest!
 - 💬 Ask me about Java and React stuffs.
-- 🥅 2021 Goals: Continue learning 😄.
+- 🥅 2022 Goals: Continue learning 😄.
 
 <img align="center" alt="Yang Wei Hao's Github Stats" src="https://github-readme-stats.whyang0808.vercel.app/api?username=whyang0808&hide=stars&count_private=true&show_icons=true&theme=yeblu&include_all_commits=true" />
 
